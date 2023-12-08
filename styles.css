@@ -1,0 +1,17 @@
+p {
+color: blue;
+font-style: italic;
+}
+
+img {
+    display: block;
+}
+
+#disappear:hover {
+    visibility: hidden;
+    height: 400px;
+}
+
+#appear {
+    display: none;
+}
